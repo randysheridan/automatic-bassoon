@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class reverseWord {
 
     public static void main(String[] args) {
+        
+        // Reversing the user inputted word.
         Scanner userInput = new Scanner(System.in);
         System.out.print("Enter a word: ");
 
